@@ -41,5 +41,5 @@ This then connects with two Arduino wristbands. These have been configured into 
 
 ## Our Prototype
 
-You can see a video of our prototype working here: (link is sort of concealed in the purple but -> (https://youtu.be/3VCT6xzchRs). 
+You can see a video of our prototype working here: (https://youtu.be/3VCT6xzchRs). 
 Eventually, we'd like to have a much smaller control board with the components soldered in (rather than in a breadboard) to make it easily wearable. We also didn't have any vibrating chips or motors at the right currency, so we used LEDs for the purpose of the demonstration. These are just connected to the Arduino via digital pins - it would be very easy to attach a small vibrating disk to the same digital pin without changing any code. 
